@@ -1,5 +1,6 @@
 # AddressParsing
-## Dakota Sanders <cbsanders@comcast.net>
+## Dakota Sanders 
+### <cbsanders@comcast.net>
 
 ### Introduction
 Hello! Just so everyone who sees this is clear,
