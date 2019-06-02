@@ -19,5 +19,5 @@ type Parser struct {
 
 //ParseData parses its own data based on provided regular expressions
 func ParseData(p Parser) {
-	fmt.Printf("Given data: %s", p.Data)
+	fmt.Printf("Given data: %s\n", p.Data)
 }
